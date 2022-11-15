@@ -1,16 +1,6 @@
-{
-    "usuarios":[
-        {
-            "user":"LUSHO",
-            "password":"1234"
-        },
-        {
-            "user":"DAVID",
-            "password":"CHURA"
-        },
+
         {
             "user":"ADMIN",
             "password":"ADMIN"
         }
-    ]
-}
+ 
